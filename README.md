@@ -5,6 +5,7 @@
   - 🚀 Building an LLM tutor for my college
   - 🌐 Network Department team member with hands-on IT experience
   - 💻 Passionate about C++ and Python programming
+  - 📈 Lifelong learner
 
   Find my project repositories down below ⬇️
 
