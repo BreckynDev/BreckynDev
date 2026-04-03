@@ -1,11 +1,15 @@
 ## Hey, I’m Breckyn 👋  
 
-  A Computer Science student who loves building software, exploring AI, diving into game development, and tinkering with networking and tech.
+  A CS student who turns ideas into software
  
-  - 🚀 Building an LLM tutor for my college
-  - 🌐 Network Department team member with hands-on IT experience
-  - 💻 Passionate about C++ and Python programming
-  - 📈 Lifelong learner
+  - 🚀 Currently building a Full-stack web application
+  - 🌐 Hands-on IT & networking experience
+  - 🤖 Explored AI/LLM integration
+  - 💻 Programming Languages:
+    - **Web:** JavaScript (React/Node.js), TypeScript, HTML, CSS
+    - **Scripting:** Python, GDScript
+    - **Systems:** C, C++, ARM Assembly
+  - 📈 Dedicated to lifelong learning and automating workflows.
 
   Find my project repositories down below ⬇️
 
